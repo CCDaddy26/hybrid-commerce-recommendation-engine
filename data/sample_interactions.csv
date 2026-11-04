@@ -1,0 +1,14 @@
+user_id,item_id,event_type,weight
+U101,PROD_001,view,1.0
+U101,PROD_001,click,2.0
+U101,PROD_002,purchase,5.0
+U102,PROD_002,view,1.0
+U102,PROD_003,purchase,5.0
+U103,PROD_001,click,2.0
+U103,PROD_004,view,1.0
+U103,PROD_004,purchase,5.0
+U104,PROD_003,view,1.0
+U104,PROD_005,purchase,5.0
+U105,PROD_002,click,2.0
+U105,PROD_005,view,1.0
+

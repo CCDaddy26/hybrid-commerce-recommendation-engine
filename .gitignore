@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / ambient cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Environment variables, credentials, secrets
+.env
+.env.*
+*.secret
+*.pem
+*.key
+*.token
+
+# OS & IDE metadata
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Streamlit local state
+.streamlit/

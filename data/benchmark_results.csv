@@ -1,0 +1,5 @@
+,precision@2,recall@2,map@2,ndcg@2,hit_rate@2,catalog_coverage@2
+Popularity,0.1,0.2,0.1,0.1261859507142915,0.2,0.5
+Implicit_ALS,0.1,0.2,0.1,0.1261859507142915,0.2,0.6666666666666666
+Content_Based,0.0,0.0,0.0,0.0,0.0,0.8333333333333334
+Hybrid_Ensemble,0.0,0.0,0.0,0.0,0.0,0.6666666666666666
